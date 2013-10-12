@@ -1,0 +1,8 @@
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria3\bin\Debug\ExemploLivraria3.exe.config
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria3\bin\Debug\ExemploLivraria3.exe
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria3\bin\Debug\ExemploLivraria3.pdb
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria3\obj\Debug\ExemploLivraria3.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria3\obj\Debug\ExemploLivraria3.exe
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria3\obj\Debug\ExemploLivraria3.pdb
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria3\bin\Debug\EntityFramework.dll
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria3\bin\Debug\EntityFramework.xml

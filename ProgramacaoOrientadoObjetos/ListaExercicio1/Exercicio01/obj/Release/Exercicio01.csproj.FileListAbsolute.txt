@@ -1,0 +1,5 @@
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\bin\Release\Exercicio01.exe.config
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\bin\Release\Exercicio01.exe
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\bin\Release\Exercicio01.pdb
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\obj\Release\Exercicio01.exe
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\obj\Release\Exercicio01.pdb

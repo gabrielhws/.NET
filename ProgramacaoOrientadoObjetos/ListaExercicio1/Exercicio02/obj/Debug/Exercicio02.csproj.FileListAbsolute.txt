@@ -1,0 +1,5 @@
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio02\bin\Debug\Exercicio02.exe.config
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio02\bin\Debug\Exercicio02.exe
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio02\bin\Debug\Exercicio02.pdb
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio02\obj\Debug\Exercicio02.exe
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio02\obj\Debug\Exercicio02.pdb

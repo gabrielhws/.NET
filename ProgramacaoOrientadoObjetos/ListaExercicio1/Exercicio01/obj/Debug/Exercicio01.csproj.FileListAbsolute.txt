@@ -1,0 +1,7 @@
+D:\Github\Git_.NET\ListaExercicio1\Exercicio01\bin\Debug\Exercicio01.exe.config
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\bin\Debug\Exercicio01.exe.config
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\bin\Debug\Exercicio01.exe
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\bin\Debug\Exercicio01.pdb
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\obj\Debug\Exercicio01.csprojResolveAssemblyReference.cache
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\obj\Debug\Exercicio01.exe
+D:\Github\Git_.NET\ProgramacaoOrientadoObjetos\ListaExercicio1\Exercicio01\obj\Debug\Exercicio01.pdb

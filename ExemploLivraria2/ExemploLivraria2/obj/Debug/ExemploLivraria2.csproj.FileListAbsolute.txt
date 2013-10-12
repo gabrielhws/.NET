@@ -1,0 +1,6 @@
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria2\bin\Debug\ExemploLivraria2.exe.config
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria2\bin\Debug\ExemploLivraria2.exe
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria2\bin\Debug\ExemploLivraria2.pdb
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria2\obj\Debug\ExemploLivraria2.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria2\obj\Debug\ExemploLivraria2.exe
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\ExemploLivraria2\ExemploLivraria2\obj\Debug\ExemploLivraria2.pdb

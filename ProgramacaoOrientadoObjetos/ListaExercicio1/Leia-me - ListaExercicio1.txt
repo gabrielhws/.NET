@@ -1,0 +1,138 @@
+Exercício 01:
+Etapa 1: Crie e compile o código fonte abaixo:
+
+//Definição da classe Fruta – Arquivo Fruta.java
+public class Fruta {
+
+	public String nomeFruta;
+	public int caloriasPorGrama;
+	public int gramas;
+	
+	public Fruta(){
+	}
+
+	//Construtor com 3 parâmetros
+	public Fruta(String nome, int g, int c) {
+		this.nomeFruta = nome;
+		this.gramas=g;
+		this.caloriasPorGrama=c;
+	}
+
+	//Métodos get e set
+	//Armazena o peso em gramas
+	public void setGramas(int gramas){
+		this.gramas = gramas;
+	}
+
+	//Retorna o peso em gramas
+	public int getGramas(){
+		return this.gramas;
+	}
+
+	//Retorna o nome da fruta
+	public String getNomeFruta(){
+		return this.nomeFruta;
+	}
+
+	//Retorna o número de calorias por grama
+	public int getCaloriasPorGrama(){
+		return caloriasPorGrama;
+	}
+
+	//Imprime os dados da fruta
+	public void imprimeFruta(){
+		System.out.println("Fruta: " + nomeFruta);
+		System.out.println("Peso: " + gramas);
+		System.out.println("Calorias: " + caloriasPorGrama);
+	}
+}
+// Definição da classe Feira (que contém o método Main) – Arquivo Feira.java
+public class Feira {
+
+	public static void main(String[] args) {
+		
+		Fruta umaLrnj = new Fruta("Laranja", 50, 30);
+		umaLrnj.imprimeFruta();
+		Fruta umaBanana = new Fruta("Banana", 10, 5);
+		umaBanana.imprimeFruta();
+
+	}
+
+}
+
+Etapa 2: Execute o programa. Obs: as classes Fruta e Feira podem sem colocadas em um mesmo arquivo ou em arquivos diferentes. No primeiro caso, apenas uma classe pode ser pública e você deve especificar qual classe contém o método Main. No segundo caso, você só poderá rodar a classe Feira, pois ela contém o método (função) principal Main.
+
+Exercício 02: Considere a definição de classe abaixo.
+
+Conta:
+
+Atributos:
+•	numero (inteiro) - Número da conta
+•	titular (String) - Titular da conta
+•	saldo (real) - Saldo da conta
+
+Métodos:
+•	getSaldo() - Retorna o saldo da conta
+•	debito(real) - Faz débito em conta
+•	credito(real) - Faz crédito em conta
+•	imprimeDadosConta() - Imprime todas informações da conta
+
+Crie a classe Conta, seguindo as orientações abaixo:
+
+1)	Comece com a definição da classe: public class Conta
+2)	Inclua os atributos número, titular e saldo.
+3)	Inclua o construtor para a classe Conta que recebe os parâmetros número, titular e saldo e inicializa os atributos.
+4)	Inclua os métodos acima definidos, sendo que:
+a.	O método credito(double d) acrescenta o valor d ao saldo do cliente.
+b.	O método debito(double d) recebe um parâmetro d e diminui o valor do saldo de d.
+c.	O método imprimeDadosConta() quando invocado para um objeto, a conta de FHC por exemplo, imprime a seguinte saída na tela:
+
+-=- Informações de Conta -=-
+Número: 11
+Titular: FHC
+Saldo: 1000000.00 Saldo OK
+
+Saída na tela quando o saldo está negativo
+
+-=- Informações de Conta -=-
+Número: 13
+Titular: Maria
+saldo: -456.34 Atenção cliente seu saldo está negativo
+
+5)	Digite, compile e execute a classe TestaConta abaixo. Essa classe serve para criar vários objetos do tipo Conta.
+
+public class TestaConta
+{
+public static void Main(String[ ]  args)
+{
+Conta c1 = new Conta(1, "José", 500);
+c1.imprimeDadosConta();
+c1.debito(12222);
+c1.imprimeDadosConta();
+Conta c2 = new Conta(2, "Marcos", 1500);
+c2.imprimeDadosConta();
+c2.debito(12222);
+c2.imprimeDadosConta();
+Conta c3 = new Conta(3, "Maria", 1500);
+c3.imprimeDadosConta();
+c3.debito(12222);
+c3.imprimeDadosConta();
+}
+}
+
+6)	Construa novos objetos do tipo Conta. Execute e teste a classe TestaConta com os objetos listados abaixo.
+Crie objetos do tipo conta com os seguintes valores:
+
+Conta:
+•	numero: 11
+•	titular: Paulo
+•	saldo: 1000000
+•	numero: 12
+•	titular: João
+•	saldo: 45.3
+•	numero: 13
+•	titular: Maria
+•	saldo: -456.34
+
+7)	Para resolver o problema de fazer um débito sem saldo suficiente, introduza um teste no método correspondente. Se o valor a ser debitado é maior que o saldo, imprima uma mensagem “Saldo inválido!” e não faça o débito. Caso o saldo seja suficiente, o débito é realizado normalmente.
+
