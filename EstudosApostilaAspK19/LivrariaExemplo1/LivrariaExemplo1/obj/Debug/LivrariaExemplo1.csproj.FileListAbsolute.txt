@@ -1,0 +1,13 @@
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\LivrariaExemplo1\LivrariaExemplo1\bin\Debug\LivrariaExemplo1.exe.config
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\LivrariaExemplo1\LivrariaExemplo1\bin\Debug\LivrariaExemplo1.exe
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\LivrariaExemplo1\LivrariaExemplo1\bin\Debug\LivrariaExemplo1.pdb
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\LivrariaExemplo1\LivrariaExemplo1\obj\Debug\LivrariaExemplo1.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\LivrariaExemplo1\LivrariaExemplo1\obj\Debug\LivrariaExemplo1.exe
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\LivrariaExemplo1\LivrariaExemplo1\obj\Debug\LivrariaExemplo1.pdb
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EstudosApostilaAspK19\LivrariaExemplo1\LivrariaExemplo1\bin\Debug\LivrariaExemplo1.exe.config
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EstudosApostilaAspK19\LivrariaExemplo1\LivrariaExemplo1\obj\Debug\LivrariaExemplo1.exe
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EstudosApostilaAspK19\LivrariaExemplo1\LivrariaExemplo1\obj\Debug\LivrariaExemplo1.pdb
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EstudosApostilaAspK19\LivrariaExemplo1\LivrariaExemplo1\bin\Debug\LivrariaExemplo1.exe
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EstudosApostilaAspK19\LivrariaExemplo1\LivrariaExemplo1\bin\Debug\LivrariaExemplo1.pdb
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EstudosApostilaAspK19\LivrariaExemplo1\LivrariaExemplo1\bin\Debug\LivrariaExemplo1.exe.CodeAnalysisLog.xml
+C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EstudosApostilaAspK19\LivrariaExemplo1\LivrariaExemplo1\bin\Debug\LivrariaExemplo1.exe.lastcodeanalysissucceeded

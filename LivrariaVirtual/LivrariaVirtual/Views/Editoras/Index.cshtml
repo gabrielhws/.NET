@@ -1,0 +1,35 @@
+﻿@Model IList<LivrariaVirtual.models.Editora>
+
+@{
+   
+    ViewBag.Title = "Editoras";
+}
+
+<h2>Editoras</h2>
+<table>
+    <tr>
+        <th>Nome: </th>
+        <th>Email: </th>
+        <th></th>
+    </tr>
+
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td> 
+            @Html.DisplayFor(modelItem => item.Nome) 
+
+        </td>
+        <td>
+             @Html.DisplayFor(modelItem => item.Email) 
+
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {id = item.Id}) 
+
+        </td>
+    </tr>
+    
+}
+</table>
