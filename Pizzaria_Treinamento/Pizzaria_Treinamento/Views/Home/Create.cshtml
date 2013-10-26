@@ -1,0 +1,12 @@
+﻿@model Pizzaria_Treinamento.Models.PizzaModel
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+@using(Html.BeginForm()){
+    
+    @Html.EditorForModel();
+    <input type="submit" value="Salvar"  />
+}

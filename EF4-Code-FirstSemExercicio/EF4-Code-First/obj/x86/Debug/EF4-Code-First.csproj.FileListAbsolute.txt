@@ -1,0 +1,8 @@
+C:\Documents and Settings\gabriel.miranda\Meus documentos\Visual Studio 2010\Projects\EF4-Code-First\EF4-Code-First\bin\Debug\EF4-Code-First.exe
+C:\Documents and Settings\gabriel.miranda\Meus documentos\Visual Studio 2010\Projects\EF4-Code-First\EF4-Code-First\bin\Debug\EF4-Code-First.pdb
+C:\Documents and Settings\gabriel.miranda\Meus documentos\Visual Studio 2010\Projects\EF4-Code-First\EF4-Code-First\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gabriel.miranda\Meus documentos\Visual Studio 2010\Projects\EF4-Code-First\EF4-Code-First\obj\x86\Debug\EF4-Code-First.exe
+C:\Documents and Settings\gabriel.miranda\Meus documentos\Visual Studio 2010\Projects\EF4-Code-First\EF4-Code-First\obj\x86\Debug\EF4-Code-First.pdb
+C:\Documents and Settings\gabriel.miranda\Meus documentos\Visual Studio 2010\Projects\EF4-Code-First\EF4-Code-First\bin\Debug\EF4-Code-First.exe.config
+C:\Documents and Settings\gabriel.miranda\Meus documentos\Visual Studio 2010\Projects\EF4-Code-First\EF4-Code-First\bin\Debug\EF4-Code-First.exe.CodeAnalysisLog.xml
+C:\Documents and Settings\gabriel.miranda\Meus documentos\Visual Studio 2010\Projects\EF4-Code-First\EF4-Code-First\bin\Debug\EF4-Code-First.exe.lastcodeanalysissucceeded

@@ -1,0 +1,20 @@
+<?xml version="1.0" unicode="utf-8" ?>
+
+<palestra> <!--Elemento Raís-->
+	<projeto>
+			<nome> Projeto Conhecendo o Linux </nome>
+			<missao> </messao>
+			<objetivo> </objetivo> 
+			<politica> </politica>
+			<tecnologias> </tecnologias>
+			<publicos> </publicos>
+		
+			<participantes>
+				<monitores></monitores>
+				<instrutores> </instrutores>
+			</participantes>
+
+			<projetosExtras></projetosExtras>
+			<importancias></importancias>
+	</projeto>
+</palestra>

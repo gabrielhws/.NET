@@ -1,2 +1,0 @@
-C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EF4-Code-First\EF4-Code-First\bin\Debug\EF4-Code-First.exe.config
-C:\Users\GABRIEL.MIRANDA\Documents\Visual Studio 2012\Projects\EF4-Code-First\EF4-Code-First\obj\Debug\EF4-Code-First.csprojResolveAssemblyReference.cache

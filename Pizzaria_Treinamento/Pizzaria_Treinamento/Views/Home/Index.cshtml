@@ -1,0 +1,38 @@
+﻿@model List<Pizzaria_Treinamento.Models.PizzaModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@Html.ActionLink("Criar Nova Pizza", "Create")
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Ingredientes</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pizza in Model)
+        {
+            <tr>
+                <td>
+                    @pizza.Id
+
+                </td>
+                <td>
+                    @pizza.Name
+
+                </td>
+                <td>
+                    @pizza.Description
+                </td>
+            </tr>
+            
+        }
+    </tbody>
+</table>
