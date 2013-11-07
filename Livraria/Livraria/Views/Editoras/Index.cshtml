@@ -1,0 +1,42 @@
+﻿@model IList<Livraria.Models.Editora>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Editoras</h2>
+
+<table>
+    <tr>
+        <th>
+            <strong>ID</strong>
+        </th>
+        <th>
+            <strong>NOME</strong>
+        </th>
+        <th>
+            <strong>EMAIL</strong>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            
+        </tr>
+        
+        
+        
+    }
+</table>

@@ -1,0 +1,50 @@
+﻿@model IList<Livraria.Models.Livro>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Livros</h2>
+
+<table>
+    <tr>
+        <th>
+            <strong>ID</strong>
+        </th>
+        <th>
+            <strong>TÍTULO</strong>
+        </th>
+        <th>
+            <strong>VALOR</strong>
+        </th>
+        <th>
+            <strong>EDITORA</strong>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Valor)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Editoras.Nome)
+            </td>
+            
+        </tr>
+        
+        
+        
+    }
+</table>
